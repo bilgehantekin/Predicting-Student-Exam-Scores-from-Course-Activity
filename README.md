@@ -1,4 +1,4 @@
-Here is a detailed README that explains the workflow and each step in your notebook:
+Here is a detailed README that explains the workflow and each step in this notebook:
 
 # Student Final Score Prediction
 
