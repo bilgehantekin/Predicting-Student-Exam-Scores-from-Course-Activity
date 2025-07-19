@@ -61,7 +61,7 @@ This notebook:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 ```bash
 pip install -r requirements.txt
